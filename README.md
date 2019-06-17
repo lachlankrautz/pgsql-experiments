@@ -2,7 +2,7 @@
 
 ## Recursive Eloquent Relations
 
-The user schema has a recursive relation through `mangaer_id`. The `User` class defines accessors for `dominion` and `chainOfCommand` using recursive queries. 
+The user schema has a recursive relation through `manager_id`. The `User` class defines accessors for `dominion` and `chainOfCommand` using recursive queries. 
 
 ## Setup
 
